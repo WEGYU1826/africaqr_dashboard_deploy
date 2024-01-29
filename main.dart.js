@@ -67402,7 +67402,7 @@ A.Rt.prototype={
 F(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.bhe(a),i=t.w,h=A.a_(k,A.l(a,k,i).w.a.a*0.01,k),g=A.A(a).p3.d
 g.toString
 s=A.l(a,k,i).w
-s=A.aO("AfricaQR Dashboards",k,k,k,k,g.ia(A.A(a).fr,s.a.a*0.023,B.I),k,k,k)
+s=A.aO("AfricaQR Dashboard",k,k,k,k,g.ia(A.A(a).fr,s.a.a*0.023,B.I),k,k,k)
 g=A.a_(k,A.l(a,k,i).w.a.a*0.01,k)
 r=l.anD(a)
 q=A.a_(k,A.l(a,k,i).w.a.a*0.01/2,k)
