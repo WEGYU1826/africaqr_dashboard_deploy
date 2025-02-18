@@ -9537,7 +9537,7 @@ s=$.bv
 if(s==null)s=$.bv=new A.d2()
 s.cG(q.cZ$)
 r=A.cD(J.h(q.d5$,r.c))
-return r==null?"":r},
+return r==null?"1.0.0":r},
 a6z(a){var s=0,r=A.v(t.H)
 var $async$a6z=A.q(function(b,c){if(b===1)return A.r(c,r)
 while(true)switch(s){case 0:s=A.aPL()!==a?2:3
@@ -55667,7 +55667,7 @@ g=$.bv
 if(g==null)g=$.bv=new A.d2()
 g.cG(h.cZ$)
 f=A.cD(J.h(h.d5$,i.c))
-l=f==null?"":f
+l=f==null?"1.0.0":f
 if(J.f(l,m.d))d=!1
 q=1
 s=7
@@ -58464,7 +58464,7 @@ s=A.b9p(q)
 return A.mJ(!1,r,r,this.d,null,!0,B.FC,q.c,new A.aSh(this),"Password",B.QV,400,s,B.eF,new A.aSi())},
 gaju(){var s=this.r
 s===$&&A.a()
-return A.qY(32,!0,s.b.bu(0,B.cU),new A.aSl(this),"Login",400)},
+return A.qY(28,!0,s.b.bu(0,B.cU),new A.aSl(this),"Login",400)},
 gyw(){var s=0,r=A.v(t.H),q,p=this,o
 var $async$gyw=A.q(function(a,b){if(a===1)return A.r(b,r)
 while(true)switch(s){case 0:o=p.f
