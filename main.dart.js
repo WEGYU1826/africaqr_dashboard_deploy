@@ -56929,7 +56929,7 @@ $.cu().ma("Socket connection error: "+A.j(a))
 s.hj()},
 $S:8}
 A.aNY.prototype={
-auG(){var s,r,q,p,o,n=this,m="https://admin-api.africaqr.com",l=null,k="query",j=t.N,i=t.z,h=A.a0(["transports",A.b(["websocket","polling"],t.s),"autoConnect",!1,"forceNew",!0],j,i),g=A.cD(m,0,l),f=g.gfJ()+"://"+g.glg(g)+":"+g.guF(g),e=g.gd0(g),d=$.b8z.ab(0,f)&&$.b8z.h(0,f).d.ab(0,e),c=J.h(h.h(0,"forceNew"),!0)||J.h(h.h(0,"force new connection"),!0)||!1===h.h(0,"multiplex")||d,b=A.bP("io")
+auG(){var s,r,q,p,o,n=this,m="https://admin-api.africaqr.com",l=null,k="query",j=t.N,i=t.z,h=A.a0(["transports",A.b(["polling","websocket"],t.s),"autoConnect",!1,"forceNew",!0],j,i),g=A.cD(m,0,l),f=g.gfJ()+"://"+g.glg(g)+":"+g.guF(g),e=g.gd0(g),d=$.b8z.ab(0,f)&&$.b8z.h(0,f).d.ab(0,e),c=J.h(h.h(0,"forceNew"),!0)||J.h(h.h(0,"force new connection"),!0)||!1===h.h(0,"multiplex")||d,b=A.bP("io")
 if(c){$.buk().bc(B.v,"ignoring socket cache for https://admin-api.africaqr.com",l,l)
 b.b=A.bky(h,m)}else{s=$.b8z.h(0,f)
 if(s==null){s=A.bky(h,m)
